@@ -4,6 +4,10 @@
 
 Commercial Conversation Intelligence is a polished, deterministic portfolio demonstration of how a fictional sales-call transcript can move through a structured review workflow. The public application uses only bundled fictional transcripts and precomputed fictional outputs. It does not perform live AI analysis, accept real conversation data, call an external service, or write to a CRM.
 
+![Commercial Objection scenario review workspace](docs/conversation-intelligence-workspace.png)
+
+*The entirely fictional Commercial Objection scenario, with a transcript mapped into an editable executive brief and evidence-backed review workspace.*
+
 ## What the demonstration includes
 
 - Four original fictional call scenarios: discovery, qualification, technical evaluation, and commercial objection handling.
@@ -44,4 +48,3 @@ The production build is a static export in `out/`.
 ## Rights
 
 Copyright © 2026 Adeel Tagar. All rights reserved. See [LICENSE](LICENSE).
-
