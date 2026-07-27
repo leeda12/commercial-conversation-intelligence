@@ -2,6 +2,8 @@
 
 > **This independent portfolio project was created using personal equipment, personal accounts, and entirely fictional data. It is not affiliated with, sponsored by, connected to, or derived from any employer or customer system. It is a technical demonstration and is not currently offered as a commercial service.**
 
+## [Live Demo →](https://commercial-conversation-intelligenc.vercel.app)
+
 Commercial Conversation Intelligence is a polished, deterministic portfolio demonstration of how a fictional sales-call transcript can move through a structured review workflow. The public application uses only bundled fictional transcripts and precomputed fictional outputs. It does not perform live AI analysis, accept real conversation data, call an external service, or write to a CRM.
 
 ![Commercial Objection scenario review workspace](docs/conversation-intelligence-workspace.png)
